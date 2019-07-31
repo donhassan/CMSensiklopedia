@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class ensiklopedia extends MY_Controller{
+class Ensiklopedia extends MY_Controller{
   //  function getdata($from,$where=null,$limit=9,$offset=0){
   public function __construct()
   {
